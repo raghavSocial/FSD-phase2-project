@@ -13,11 +13,11 @@
 <h2 align="center">LearnerAcademy Admin login</h2>
 
 <tr>
-<td>Enter Username:<input type="text" name="adminname123"></td>
+<td>Enter Username:<input type="text" name="adminnameinputbyuser"></td>
 </tr>
 
 <tr>
-<td>Enter Password:<input type="password" name="adminpassword123"></td>
+<td>Enter Password:<input type="password" name="adminpasswordinputbyuser"></td>
 </tr>
 
 <tr>
