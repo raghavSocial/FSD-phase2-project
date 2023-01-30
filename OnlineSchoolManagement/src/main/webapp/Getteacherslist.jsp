@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Get Teahcers Details</title>
+<title>Get Teachers Details</title>
 </head>
 <body>
 <%
